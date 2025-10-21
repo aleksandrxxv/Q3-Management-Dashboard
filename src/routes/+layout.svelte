@@ -1,6 +1,6 @@
 <script>
   import { page } from "$app/stores";
-  import "../app.css";
+  import "../App.css";
   import logo from "$lib/assets/logo.svg";
 </script>
 
